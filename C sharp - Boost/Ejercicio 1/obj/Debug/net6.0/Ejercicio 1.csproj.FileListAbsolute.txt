@@ -1,0 +1,15 @@
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/bin/Debug/net6.0/Ejercicio 1
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/bin/Debug/net6.0/Ejercicio 1.deps.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/bin/Debug/net6.0/Ejercicio 1.runtimeconfig.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/bin/Debug/net6.0/Ejercicio 1.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/bin/Debug/net6.0/Ejercicio 1.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/obj/Debug/net6.0/Ejercicio 1.csproj.AssemblyReference.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/obj/Debug/net6.0/Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/obj/Debug/net6.0/Ejercicio 1.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/obj/Debug/net6.0/Ejercicio 1.AssemblyInfo.cs
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/obj/Debug/net6.0/Ejercicio 1.csproj.CoreCompileInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/obj/Debug/net6.0/Ejercicio 1.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/obj/Debug/net6.0/refint/Ejercicio 1.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/obj/Debug/net6.0/Ejercicio 1.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/obj/Debug/net6.0/Ejercicio 1.genruntimeconfig.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicio 1/obj/Debug/net6.0/ref/Ejercicio 1.dll
