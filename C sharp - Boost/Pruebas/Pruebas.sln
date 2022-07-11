@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructuras", "Estructuras\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bucles", "Bucles\Bucles.csproj", "{237DA11D-6F6D-48DE-8C0F-2E846B54B5EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bucles 2", "Bucles 2\Bucles 2.csproj", "{3D86899D-91B0-4CE5-A614-ECA80D2B1527}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{237DA11D-6F6D-48DE-8C0F-2E846B54B5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{237DA11D-6F6D-48DE-8C0F-2E846B54B5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{237DA11D-6F6D-48DE-8C0F-2E846B54B5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D86899D-91B0-4CE5-A614-ECA80D2B1527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D86899D-91B0-4CE5-A614-ECA80D2B1527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D86899D-91B0-4CE5-A614-ECA80D2B1527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D86899D-91B0-4CE5-A614-ECA80D2B1527}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
