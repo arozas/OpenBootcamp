@@ -1,0 +1,15 @@
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/bin/Debug/net6.0/Ejercicios sesión 4
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/bin/Debug/net6.0/Ejercicios sesión 4.deps.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/bin/Debug/net6.0/Ejercicios sesión 4.runtimeconfig.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/bin/Debug/net6.0/Ejercicios sesión 4.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/bin/Debug/net6.0/Ejercicios sesión 4.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/obj/Debug/net6.0/Ejercicios sesión 4.csproj.AssemblyReference.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/obj/Debug/net6.0/Ejercicios sesión 4.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/obj/Debug/net6.0/Ejercicios sesión 4.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/obj/Debug/net6.0/Ejercicios sesión 4.AssemblyInfo.cs
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/obj/Debug/net6.0/Ejercicios sesión 4.csproj.CoreCompileInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/obj/Debug/net6.0/Ejercicios sesión 4.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/obj/Debug/net6.0/refint/Ejercicios sesión 4.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/obj/Debug/net6.0/Ejercicios sesión 4.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/obj/Debug/net6.0/Ejercicios sesión 4.genruntimeconfig.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Ejercicios sesión 4/Ejercicios sesión 4/obj/Debug/net6.0/ref/Ejercicios sesión 4.dll

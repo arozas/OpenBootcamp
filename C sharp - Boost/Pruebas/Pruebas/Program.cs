@@ -9,7 +9,7 @@ float myFloat = i;
 long l = 1;
 float f = 1.5555f; 
 //Se ingresa una f en la sintaxis para indentificar el float.
-double myDouble = f; 
+//double myDouble = f; 
 //No hay problema en la conversión por que el dato es más chico que la variable.
 double d = 2.6666666666666d;
 char c = 'c'; 
@@ -21,7 +21,7 @@ int myInt = Convert.ToInt32(myString);
 Console.WriteLine("int: "+i); 
 //la diferencia entre write y writeline es el salto de linea que incluye esta ultima.
 
-const float pi = 3.1415;
+//const float pi = 3.1415f;
 // al ser una constante no se puede cambiar el valor de la variable, como por ejemplo sumar le uno.
 // pi = pi+1; no va a compilar.
 
@@ -36,7 +36,6 @@ Console.WriteLine("float: "+f);
 Console.WriteLine("double: "+d);
 Console.WriteLine("char: "+c);
 Console.WriteLine("string: "+s);
-*/
 
 /*//Ejercicio.
 Console.WriteLine("INGRESE SU NOMBRE:");
