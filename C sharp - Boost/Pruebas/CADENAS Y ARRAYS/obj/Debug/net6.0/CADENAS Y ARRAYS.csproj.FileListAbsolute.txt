@@ -1,0 +1,15 @@
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/bin/Debug/net6.0/CADENAS Y ARRAYS
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/bin/Debug/net6.0/CADENAS Y ARRAYS.deps.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/bin/Debug/net6.0/CADENAS Y ARRAYS.runtimeconfig.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/bin/Debug/net6.0/CADENAS Y ARRAYS.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/bin/Debug/net6.0/CADENAS Y ARRAYS.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/obj/Debug/net6.0/CADENAS Y ARRAYS.csproj.AssemblyReference.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/obj/Debug/net6.0/CADENAS Y ARRAYS.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/obj/Debug/net6.0/CADENAS Y ARRAYS.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/obj/Debug/net6.0/CADENAS Y ARRAYS.AssemblyInfo.cs
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/obj/Debug/net6.0/CADENAS Y ARRAYS.csproj.CoreCompileInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/obj/Debug/net6.0/CADENAS Y ARRAYS.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/obj/Debug/net6.0/refint/CADENAS Y ARRAYS.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/obj/Debug/net6.0/CADENAS Y ARRAYS.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/obj/Debug/net6.0/CADENAS Y ARRAYS.genruntimeconfig.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/CADENAS Y ARRAYS/obj/Debug/net6.0/ref/CADENAS Y ARRAYS.dll

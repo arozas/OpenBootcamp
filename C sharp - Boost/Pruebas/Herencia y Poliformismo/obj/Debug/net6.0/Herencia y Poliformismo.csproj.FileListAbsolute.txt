@@ -1,0 +1,15 @@
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/bin/Debug/net6.0/Herencia y Poliformismo
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/bin/Debug/net6.0/Herencia y Poliformismo.deps.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/bin/Debug/net6.0/Herencia y Poliformismo.runtimeconfig.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/bin/Debug/net6.0/Herencia y Poliformismo.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/bin/Debug/net6.0/Herencia y Poliformismo.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/obj/Debug/net6.0/Herencia y Poliformismo.csproj.AssemblyReference.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/obj/Debug/net6.0/Herencia y Poliformismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/obj/Debug/net6.0/Herencia y Poliformismo.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/obj/Debug/net6.0/Herencia y Poliformismo.AssemblyInfo.cs
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/obj/Debug/net6.0/Herencia y Poliformismo.csproj.CoreCompileInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/obj/Debug/net6.0/Herencia y Poliformismo.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/obj/Debug/net6.0/refint/Herencia y Poliformismo.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/obj/Debug/net6.0/Herencia y Poliformismo.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/obj/Debug/net6.0/Herencia y Poliformismo.genruntimeconfig.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Herencia y Poliformismo/obj/Debug/net6.0/ref/Herencia y Poliformismo.dll

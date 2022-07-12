@@ -1,0 +1,15 @@
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/bin/Debug/net6.0/FUNCIONES Y METODOS
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/bin/Debug/net6.0/FUNCIONES Y METODOS.deps.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/bin/Debug/net6.0/FUNCIONES Y METODOS.runtimeconfig.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/bin/Debug/net6.0/FUNCIONES Y METODOS.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/bin/Debug/net6.0/FUNCIONES Y METODOS.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/obj/Debug/net6.0/FUNCIONES Y METODOS.csproj.AssemblyReference.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/obj/Debug/net6.0/FUNCIONES Y METODOS.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/obj/Debug/net6.0/FUNCIONES Y METODOS.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/obj/Debug/net6.0/FUNCIONES Y METODOS.AssemblyInfo.cs
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/obj/Debug/net6.0/FUNCIONES Y METODOS.csproj.CoreCompileInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/obj/Debug/net6.0/FUNCIONES Y METODOS.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/obj/Debug/net6.0/refint/FUNCIONES Y METODOS.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/obj/Debug/net6.0/FUNCIONES Y METODOS.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/obj/Debug/net6.0/FUNCIONES Y METODOS.genruntimeconfig.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/FUNCIONES Y METODOS/obj/Debug/net6.0/ref/FUNCIONES Y METODOS.dll

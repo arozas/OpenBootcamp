@@ -1,0 +1,15 @@
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/bin/Debug/net6.0/Clases y objetos
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/bin/Debug/net6.0/Clases y objetos.deps.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/bin/Debug/net6.0/Clases y objetos.runtimeconfig.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/bin/Debug/net6.0/Clases y objetos.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/bin/Debug/net6.0/Clases y objetos.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/obj/Debug/net6.0/Clases y objetos.csproj.AssemblyReference.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/obj/Debug/net6.0/Clases y objetos.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/obj/Debug/net6.0/Clases y objetos.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/obj/Debug/net6.0/Clases y objetos.AssemblyInfo.cs
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/obj/Debug/net6.0/Clases y objetos.csproj.CoreCompileInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/obj/Debug/net6.0/Clases y objetos.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/obj/Debug/net6.0/refint/Clases y objetos.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/obj/Debug/net6.0/Clases y objetos.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/obj/Debug/net6.0/Clases y objetos.genruntimeconfig.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Clases y objetos/obj/Debug/net6.0/ref/Clases y objetos.dll
