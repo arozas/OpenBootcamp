@@ -1,0 +1,15 @@
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/bin/Debug/net6.0/Tema 13 - Abstraccion interface y encapsulacion
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/bin/Debug/net6.0/Tema 13 - Abstraccion interface y encapsulacion.deps.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/bin/Debug/net6.0/Tema 13 - Abstraccion interface y encapsulacion.runtimeconfig.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/bin/Debug/net6.0/Tema 13 - Abstraccion interface y encapsulacion.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/bin/Debug/net6.0/Tema 13 - Abstraccion interface y encapsulacion.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/obj/Debug/net6.0/Tema 13 - Abstraccion interface y encapsulacion.csproj.AssemblyReference.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/obj/Debug/net6.0/Tema 13 - Abstraccion interface y encapsulacion.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/obj/Debug/net6.0/Tema 13 - Abstraccion interface y encapsulacion.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/obj/Debug/net6.0/Tema 13 - Abstraccion interface y encapsulacion.AssemblyInfo.cs
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/obj/Debug/net6.0/Tema 13 - Abstraccion interface y encapsulacion.csproj.CoreCompileInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/obj/Debug/net6.0/Tema 13 - Abstraccion interface y encapsulacion.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/obj/Debug/net6.0/refint/Tema 13 - Abstraccion interface y encapsulacion.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/obj/Debug/net6.0/Tema 13 - Abstraccion interface y encapsulacion.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/obj/Debug/net6.0/Tema 13 - Abstraccion interface y encapsulacion.genruntimeconfig.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 13 - Abstraccion interface y encapsulacion/obj/Debug/net6.0/ref/Tema 13 - Abstraccion interface y encapsulacion.dll

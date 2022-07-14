@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tema 13 - Abstraccion interface y encapsulacion/1.0.0": {
+        "runtime": {
+          "Tema 13 - Abstraccion interface y encapsulacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tema 13 - Abstraccion interface y encapsulacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

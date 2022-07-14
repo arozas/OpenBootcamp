@@ -1,0 +1,15 @@
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/bin/Debug/net6.0/Tema 15 - Multithreading
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/bin/Debug/net6.0/Tema 15 - Multithreading.deps.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/bin/Debug/net6.0/Tema 15 - Multithreading.runtimeconfig.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/bin/Debug/net6.0/Tema 15 - Multithreading.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/bin/Debug/net6.0/Tema 15 - Multithreading.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/obj/Debug/net6.0/Tema 15 - Multithreading.csproj.AssemblyReference.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/obj/Debug/net6.0/Tema 15 - Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/obj/Debug/net6.0/Tema 15 - Multithreading.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/obj/Debug/net6.0/Tema 15 - Multithreading.AssemblyInfo.cs
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/obj/Debug/net6.0/Tema 15 - Multithreading.csproj.CoreCompileInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/obj/Debug/net6.0/Tema 15 - Multithreading.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/obj/Debug/net6.0/refint/Tema 15 - Multithreading.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/obj/Debug/net6.0/Tema 15 - Multithreading.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/obj/Debug/net6.0/Tema 15 - Multithreading.genruntimeconfig.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 15 - Multithreading/obj/Debug/net6.0/ref/Tema 15 - Multithreading.dll

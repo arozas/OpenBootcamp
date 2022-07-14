@@ -1,0 +1,15 @@
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/bin/Debug/net6.0/Tema 14  - Programacion Asincronica
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/bin/Debug/net6.0/Tema 14  - Programacion Asincronica.deps.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/bin/Debug/net6.0/Tema 14  - Programacion Asincronica.runtimeconfig.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/bin/Debug/net6.0/Tema 14  - Programacion Asincronica.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/bin/Debug/net6.0/Tema 14  - Programacion Asincronica.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/obj/Debug/net6.0/Tema 14  - Programacion Asincronica.csproj.AssemblyReference.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/obj/Debug/net6.0/Tema 14  - Programacion Asincronica.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/obj/Debug/net6.0/Tema 14  - Programacion Asincronica.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/obj/Debug/net6.0/Tema 14  - Programacion Asincronica.AssemblyInfo.cs
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/obj/Debug/net6.0/Tema 14  - Programacion Asincronica.csproj.CoreCompileInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/obj/Debug/net6.0/Tema 14  - Programacion Asincronica.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/obj/Debug/net6.0/refint/Tema 14  - Programacion Asincronica.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/obj/Debug/net6.0/Tema 14  - Programacion Asincronica.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/obj/Debug/net6.0/Tema 14  - Programacion Asincronica.genruntimeconfig.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 14  - Programacion Asincronica/obj/Debug/net6.0/ref/Tema 14  - Programacion Asincronica.dll
