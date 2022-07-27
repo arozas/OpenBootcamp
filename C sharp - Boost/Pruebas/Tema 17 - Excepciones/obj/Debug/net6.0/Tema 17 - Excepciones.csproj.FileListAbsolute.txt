@@ -1,0 +1,15 @@
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/bin/Debug/net6.0/Tema 17 - Excepciones
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/bin/Debug/net6.0/Tema 17 - Excepciones.deps.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/bin/Debug/net6.0/Tema 17 - Excepciones.runtimeconfig.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/bin/Debug/net6.0/Tema 17 - Excepciones.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/bin/Debug/net6.0/Tema 17 - Excepciones.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/obj/Debug/net6.0/Tema 17 - Excepciones.csproj.AssemblyReference.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/obj/Debug/net6.0/Tema 17 - Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/obj/Debug/net6.0/Tema 17 - Excepciones.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/obj/Debug/net6.0/Tema 17 - Excepciones.AssemblyInfo.cs
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/obj/Debug/net6.0/Tema 17 - Excepciones.csproj.CoreCompileInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/obj/Debug/net6.0/Tema 17 - Excepciones.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/obj/Debug/net6.0/refint/Tema 17 - Excepciones.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/obj/Debug/net6.0/Tema 17 - Excepciones.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/obj/Debug/net6.0/Tema 17 - Excepciones.genruntimeconfig.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 17 - Excepciones/obj/Debug/net6.0/ref/Tema 17 - Excepciones.dll

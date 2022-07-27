@@ -1,0 +1,15 @@
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/bin/Debug/net6.0/Tema 18 - Matrices
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/bin/Debug/net6.0/Tema 18 - Matrices.deps.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/bin/Debug/net6.0/Tema 18 - Matrices.runtimeconfig.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/bin/Debug/net6.0/Tema 18 - Matrices.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/bin/Debug/net6.0/Tema 18 - Matrices.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/obj/Debug/net6.0/Tema 18 - Matrices.csproj.AssemblyReference.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/obj/Debug/net6.0/Tema 18 - Matrices.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/obj/Debug/net6.0/Tema 18 - Matrices.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/obj/Debug/net6.0/Tema 18 - Matrices.AssemblyInfo.cs
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/obj/Debug/net6.0/Tema 18 - Matrices.csproj.CoreCompileInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/obj/Debug/net6.0/Tema 18 - Matrices.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/obj/Debug/net6.0/refint/Tema 18 - Matrices.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/obj/Debug/net6.0/Tema 18 - Matrices.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/obj/Debug/net6.0/Tema 18 - Matrices.genruntimeconfig.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 18 - Matrices/obj/Debug/net6.0/ref/Tema 18 - Matrices.dll

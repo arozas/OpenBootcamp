@@ -1,0 +1,15 @@
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/bin/Debug/net6.0/Tema 16 -Archivos JSON
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/bin/Debug/net6.0/Tema 16 -Archivos JSON.deps.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/bin/Debug/net6.0/Tema 16 -Archivos JSON.runtimeconfig.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/bin/Debug/net6.0/Tema 16 -Archivos JSON.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/bin/Debug/net6.0/Tema 16 -Archivos JSON.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/obj/Debug/net6.0/Tema 16 -Archivos JSON.csproj.AssemblyReference.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/obj/Debug/net6.0/Tema 16 -Archivos JSON.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/obj/Debug/net6.0/Tema 16 -Archivos JSON.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/obj/Debug/net6.0/Tema 16 -Archivos JSON.AssemblyInfo.cs
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/obj/Debug/net6.0/Tema 16 -Archivos JSON.csproj.CoreCompileInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/obj/Debug/net6.0/Tema 16 -Archivos JSON.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/obj/Debug/net6.0/refint/Tema 16 -Archivos JSON.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/obj/Debug/net6.0/Tema 16 -Archivos JSON.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/obj/Debug/net6.0/Tema 16 -Archivos JSON.genruntimeconfig.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 -Archivos JSON/obj/Debug/net6.0/ref/Tema 16 -Archivos JSON.dll

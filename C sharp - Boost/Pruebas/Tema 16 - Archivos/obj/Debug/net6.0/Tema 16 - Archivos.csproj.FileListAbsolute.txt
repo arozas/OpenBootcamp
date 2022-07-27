@@ -1,0 +1,15 @@
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/bin/Debug/net6.0/Tema 16 - Archivos
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/bin/Debug/net6.0/Tema 16 - Archivos.deps.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/bin/Debug/net6.0/Tema 16 - Archivos.runtimeconfig.json
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/bin/Debug/net6.0/Tema 16 - Archivos.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/bin/Debug/net6.0/Tema 16 - Archivos.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/obj/Debug/net6.0/Tema 16 - Archivos.csproj.AssemblyReference.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/obj/Debug/net6.0/Tema 16 - Archivos.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/obj/Debug/net6.0/Tema 16 - Archivos.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/obj/Debug/net6.0/Tema 16 - Archivos.AssemblyInfo.cs
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/obj/Debug/net6.0/Tema 16 - Archivos.csproj.CoreCompileInputs.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/obj/Debug/net6.0/Tema 16 - Archivos.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/obj/Debug/net6.0/refint/Tema 16 - Archivos.dll
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/obj/Debug/net6.0/Tema 16 - Archivos.pdb
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/obj/Debug/net6.0/Tema 16 - Archivos.genruntimeconfig.cache
+/home/alejandro/Documentos/Estudio/OpenBootcamp/C sharp - Boost/Pruebas/Tema 16 - Archivos/obj/Debug/net6.0/ref/Tema 16 - Archivos.dll
